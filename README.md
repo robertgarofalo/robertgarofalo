@@ -1,6 +1,6 @@
 ### Hey there 👋 Welcome to my Github
-I'm Robert, an aspiring full stack developer with a passion for learning and building things on the web!
-From Melbourne Australia 🇦🇺 currently living in Italy 🇮🇹
+<p>I'm Robert, an aspiring full stack developer with a passion for learning and building things on the web!<p>
+<p>From Melbourne Australia 🇦🇺 currently living in Italy 🇮🇹 </p>
 
 <br />
 
