@@ -25,9 +25,9 @@
 </p>
 <br />
 
-## 🌱 Currently learning
+## 🌱 Currently focusing on
 <p>
-<img alt="NextJS" src="https://img.shields.io/badge/-Nextjs-000?style=for-the-badge&logo=Next.js&logoColor=white" />
+<img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
 </p>
 <br />
