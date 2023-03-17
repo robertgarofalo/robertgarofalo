@@ -1,5 +1,5 @@
 ### Hey there 👋 Welcome to my Github
-<p>I'm Robert, an aspiring full stack developer with a passion for learning and building things on the web!<p>
+<p>I'm Robert, an aspiring full stack web and mobile app developer with a passion for learning and building things on the web!<p>
 <p>I'm from Melbourne, Australia 🇦🇺 - soon to be relocating to Rome, Italy 🇮🇹 </p>
 
 <br />
@@ -12,6 +12,7 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
   </p>
   <p>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -28,13 +29,17 @@
 ## 🌱 Currently focusing on
 <p>
 <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
 </p>
 <br />
 
 ## ⚡️ Up Next
 <p>
-  <img alt="npm" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img alt="swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  
+  
+ <!--  <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> -->
+  
 </p>
 <br />
 
