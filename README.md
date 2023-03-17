@@ -2,6 +2,11 @@
 <p>I'm Robert, an aspiring full stack web and mobile app developer with a passion for learning and building things on the web!<p>
 <p>I'm from Melbourne, Australia 🇦🇺 - soon to be relocating to Rome, Italy 🇮🇹 </p>
 
+<br> 
+⚠️ Currently looking for a Remote job primarily in Mobile App Development (React Native)  
+
+
+<hr>
 <br />
 
 ## 👨🏻‍💻 Technologies I've worked with
